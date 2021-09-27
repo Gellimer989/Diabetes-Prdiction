@@ -3,3 +3,7 @@ Diabetes is a chronic disease characterized by an excessive amount of sugar (glu
 Type 1 diabetes
 Type 2 diabetes
 
+
+# Dataset
+https://www.kaggle.com/vikasukani/diabetes-data-set
+![image](https://user-images.githubusercontent.com/53784028/134905998-a290d9db-0cd5-49ea-95e8-24c352f80bce.png)
